@@ -33,23 +33,18 @@ public class BuyItemAction extends ActionSupport implements SessionAware{
 	public int getStock(){
 		return stock;
 	}
-
 	public void setStock(int stock){
 		this.stock=stock;
 	}
-
 	public String getPay(){
 		return pay;
 	}
-
 	public void setPay(String pay){
 		this.pay=pay;
 	}
-
 	public Map<String,Object>getSession(){
 		return session;
 	}
-
 	public void setSession(Map<String,Object>session){
 		this.session=session;
 	}

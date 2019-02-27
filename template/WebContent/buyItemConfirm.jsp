@@ -59,6 +59,7 @@ table {
 	<div id="header">
 		<div id="pr"></div>
 	</div>
+	
 	<div id="main">
 		<div id="top">
 			<p>BuyItemConfirm</p>
@@ -89,6 +90,7 @@ table {
 			</s:form>
 		</div>
 	</div>
+	
 	<div id="footer">
 		<div id="pr"></div>
 	</div>
